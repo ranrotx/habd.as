@@ -1,19 +1,19 @@
 # Site Settings
 locale                   : "en-US"
-title                    : "habd.as"
+title                    : "Ronnie Eichler"
 title_separator          : "-"
-name                     : "Josh Habdas"
-description              : "Let's build a better Web"
-url                      : https://habd.as # the base hostname & protocol for your site e.g. "https://jhabdas.github.io"
+name                     : "Ronnie Eichler"
+description              : "Tech blog for Ronnie Eichler. The views expressed on this site are my own and not those of my employer."
+url                      : https://www.ronnieeichler.com # the base hostname & protocol for your site e.g. "https://jhabdas.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : https://github.com/jhabdas/habd.as/
+repository               : https://github.com/ranrotx/ronnieeichler-site/
 teaser                   : programming-942487_500.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : disqus # false (default), "disqus", "facebook", "google-plus", custom"
   disqus:
-    shortname            : habdas # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : ronnieeichler # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
@@ -26,9 +26,9 @@ version: 3.0.3
 
 # SEO Related
 webmaster_verifications:
-  google: B7WE9il5wd1Mjl9PZttf1pLgrxVmric-D7-az4KxaCY
-  bing: DBC165D1E8CE148BED6D48D4F31A3831
-  yandex: 4006a8813cbb9fdb
+  google:
+  bing:
+  yandex:
 
 # Social Sharing
 twitter:
@@ -47,44 +47,44 @@ social:
 
 # Analytics
 analytics:
-  provider               : segment # false (default), "segment", "google", "google-universal", "custom"
+  provider               :  # false (default), "segment", "google", "google-universal", "custom"
   google:
     tracking_id          :
   segment:
-    write_key            : YwZOQGAgThWNCemaxEhy6wrKYvpiNztK
+    write_key            :
 
 # Google AdSense
 google_ad_client         : # ca-pub-0082825360919078
-google_ad_slot           : 5217752381 # habd.as - Main Config Ad Slot
+google_ad_slot           :  # habd.as - Main Config Ad Slot
 
 
 # Site Author
 # See also _data/authors.yml
 author:
-  name             : "Josh Habdas"
+  name             : "Ronnie Eichler"
   avatar           : "bio-photo.jpg"
-  bio              : “The cave you fear to enter holds the treasure that you seek.” —Joseph Campbell
-  location         : "Bali, Indonesia"
+  bio              : "Just a guy that likes technology"
+  location         : "Dallas, Texas"
   email            :
   uri              :
   angellist        :
   bitbucket        :
   codepen          :
-  codementor       : jhabdas
+  codementor       :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : jhabdas
+  github           : ranrotx
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : jhabdas
-  medium           : jhabdas
+  linkedin         : ronnieeichler
+  medium           :
   pinterest        :
   soundcloud       :
-  stackoverflow    : 712334/josh-h
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          :
