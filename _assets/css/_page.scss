@@ -53,14 +53,6 @@ main {
     font-size: 1em;
   }
 
-  /* introductory paragraph */
-  > p:first-child {
-    font-size: 1.125rem;
-    @include breakpoint($medium) {
-      font-size: 1.25rem;
-    }
-  }
-
   /* paragraph indents */
   p {
     margin: 0 0 $indent-var;
