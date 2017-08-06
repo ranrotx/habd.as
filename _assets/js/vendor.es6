@@ -5,4 +5,3 @@
 //= require plugins/jquery.smooth-scroll.min.js
 //= require plugins/stickyfill.min.js
 //= require vendor/anchor.js
-//= require vendor/particles.min.js
