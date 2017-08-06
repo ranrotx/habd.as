@@ -1,8 +1,8 @@
 # Masthead navigation links
 
 masthead:
-  - title: "Work"
-    url: /work/
+  - title: "About Me"
+    url: /about/
   - title: "Talks"
     url: /talks/
   - title: "Archives"
