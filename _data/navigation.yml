@@ -3,8 +3,6 @@
 masthead:
   - title: "About Me"
     url: /about/
-  - title: "Talks"
-    url: /talks/
   - title: "Archives"
     url: /posts/
   - title: "Contact"
