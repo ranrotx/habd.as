@@ -30,7 +30,8 @@ gzip:
 #   - those_folders_of_stuff
 #   - i_wouldnt_want_to_upload
 
-s3_reduced_redundancy: true
+# this isn't cheaper anymore
+# s3_reduced_redundancy: true
 
 cloudfront_distribution_id: E1ZU8OFZY130NB
 
