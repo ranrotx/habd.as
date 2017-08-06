@@ -19,8 +19,6 @@
             {% endif %}
             <li class="masthead__menu-item"><a class="{{ class }}" href="{{ domain }}{{ link.url }}" onclick="analytics.track('Clicked {{ link.title }} Masthead Link')">{{ link.title }}</a></li>
           {% endfor %}
-          <style>.greedy-nav .visible-links a[target="_blank"]:before {border-bottom-right-radius:4px;border-bottom-left-radius:4px;background-color:#ff2e88}</style>
-          <li class="masthead__menu-item"><a target="_blank" href="https://hackcabin.com/" style="border-radius:4px;background-color:black;color:#ff2e88;padding:10px 20px;" onclick="analytics.track('Clicked Hack Cabin Masthead Link')" title="Have you ever seen a portal?">Hack Cabin</a></li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
