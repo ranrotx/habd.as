@@ -53,10 +53,6 @@ analytics:
   segment:
     write_key            :
 
-# Google AdSense
-google_ad_client         : # ca-pub-0082825360919078
-google_ad_slot           :  # habd.as - Main Config Ad Slot
-
 
 # Site Author
 # See also _data/authors.yml
