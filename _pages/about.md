@@ -4,9 +4,8 @@ permalink: /about/
 modified: 2016-05-27
 layout: splash
 header:
-  overlay_image: pourover-unsplash_1280.jpeg
+  overlay_image: IMG_0320.jpg
   overlay_filter: 0.5
-  caption: "Photo credit: [*@kfred*](https://unsplash.com/@kfred)"
 ---
 I'm a career IT Professional living in Dallas, Texas. Overall, I have a broad background in enterprise IT as well as cloud computing. Currently, I work as a Enterprise Solutions Architect for [Amazon Web Services](http://aws.amazon.com/).
 
