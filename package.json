@@ -1,30 +1,30 @@
 {
-  "name": "habd.as",
-  "version": "0.0.7",
-  "description": "Personal website of Josh Habdas. Chicago, USA.",
+  "name": "ronnieeichler-new",
+  "version": "0.0.1",
+  "description": "Personal website of Ronnie Eichler.",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jhabdas/habd.as.git"
+    "url": "git://github.com/ranrotx/ronnieeichler-site.git"
   },
   "keywords": [
     "jekyll",
     "blog",
     "technology"
   ],
-  "author": "Josh Habdas",
+  "author": "Ronnie Eichler",
   "license": "MIT",
-  "homepage": "https://github.com/jhabdas/habd.as/",
+  "homepage": "https://www.ronnieeichler.com/",
   "engines": {
     "node": ">= 0.10.0"
   },
   "devDependencies": {
     "autoprefixer": "^6.3.5",
-    "imagemin": "^5.2.1",
     "node-sass": "^3.4.2",
     "npm-run-all": "^1.7.0",
     "onchange": "^2.2.0",
     "postcss-cli": "^2.5.1",
-    "uglify-js": "^2.6.1"
+    "uglify-js": "^2.6.1",
+    "imagemin-cli": "^3.0.0"
   },
   "scripts": {
     "scss": "node-sass --output-style compressed -o assets/css assets/_scss",
