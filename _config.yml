@@ -47,9 +47,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  # false (default), "segment", "google", "google-universal", "custom"
+  provider               : google
   google:
-    tracking_id          :
+    tracking_id          : UA-70776171-2
   segment:
     write_key            :
 
