@@ -5,11 +5,10 @@ masthead:
     url: /about/
   - title: "Archives"
     url: /posts/
-  - title: "Contact"
-    url: /contact/
 
 # Footer navigation links
 
-footer:
-  - title: "Terms &amp; Conditions"
-    url: /terms/
+# footer:
+#   - title: "Terms &amp; Conditions"
+#     url: /terms/
+#

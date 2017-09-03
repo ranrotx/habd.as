@@ -7,7 +7,7 @@ description              : "Tech blog for Ronnie Eichler. The views expressed on
 url                      : https://www.ronnieeichler.com # the base hostname & protocol for your site e.g. "https://jhabdas.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : https://github.com/ranrotx/ronnieeichler-site/
-teaser                   : programming-942487_500.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : teaser.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : # true, false (default)
 words_per_minute         : 200
 comments:
@@ -107,6 +107,7 @@ exclude:
   - Capfile
   - CHANGELOG
   - config
+  - Dockerfile
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
@@ -114,6 +115,7 @@ exclude:
   - log
   - node_modules
   - package.json
+  - package-lock.json
   - Rakefile
   - README
   - tmp
@@ -183,23 +185,23 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
-category_archive:
-  type: jekyll-archives
-  path: /categories/
-tag_archive:
-  type: jekyll-archives
-  path: /tags/
-# https://github.com/jekyll/jekyll-archives
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layouts:
-    category: archive-taxonomy
-    tag: archive-taxonomy
-  permalinks:
-    category: /categories/:name/
-    tag: /tags/:name/
+# category_archive:
+#   type: jekyll-archives
+#   path: /categories/
+# tag_archive:
+#   type: jekyll-archives
+#   path: /tags/
+# # https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
 
 
 # HTML Compression

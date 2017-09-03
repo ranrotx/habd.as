@@ -1,0 +1,16 @@
+# Site Settings (Development Overrides)
+
+url: https://blog-staging.ronnieeichler.com
+
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+analytics:
+  provider: false
+
+comments:
+  provider: false
