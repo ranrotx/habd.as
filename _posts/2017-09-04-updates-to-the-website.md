@@ -6,9 +6,9 @@ excerpt: A brief update on the development and hosting of this site.
 categories: [updates]
 tags: [aws, jekyll, https]
 header:
-  overlay_image: 4fqamznaguo-reginar_1280.jpg
+  overlay_image: code.jpg
   overlay_filter: 0.5
-  teaser: 4fqamznaguo-reginar_512.jpg
+  teaser: laptop-teaser.jpg
 featured: true
 ---
 
