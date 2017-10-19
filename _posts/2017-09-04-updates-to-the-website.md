@@ -9,7 +9,6 @@ header:
   overlay_image: code.jpg
   overlay_filter: 0.5
   teaser: laptop-teaser.jpg
-featured: true
 ---
 
 The last several months have been busy here. However, I have accomplished a long-running task which has been to update my personal website. I've also integrated some other AWS services into the workflow which I'll go into more detail as well.
