@@ -9,7 +9,7 @@ author_profile: false
 comments: false
 share: false
 link: https://aws.amazon.com/blogs/compute/implementing-default-directory-indexes-in-amazon-s3-backed-amazon-cloudfront-origins-using-lambdaedge/
-featured: true
+featured: false
 header:
     teaser: lambda-trigger-teaser.jpg
 
