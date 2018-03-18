@@ -8,7 +8,7 @@ layout: single
 <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.1/mapbox-gl.js'></script>
 <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.1/mapbox-gl.css' rel='stylesheet' />
 
-<div id='map' style='width: 800px; height: 600px;'></div>
+<div id='map' style='width:600px; height:400px'></div>
 
 <script>
 mapboxgl.accessToken = '{{ site.mapbox.accessToken }}';
@@ -24,7 +24,7 @@ map.on('load', function () {
     "type": "circle",
     "source": {
         "type": "geojson",
-        "data": "http://localhost:4000/json/travels.geojson"
+        "data": "{{ site.url }}/json/travels.geojson"
     }
   });
 
