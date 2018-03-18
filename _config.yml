@@ -259,3 +259,9 @@ defaults:
       layout: single
       author_profile: false
       share: true
+
+# Mapbox
+mapbox:
+  accessToken: "pk.eyJ1IjoicmFucm90eCIsImEiOiJjamV2amNuMGQ3anRxMnhvNzZqZ3Z4Z2tyIn0.q2YunyyGpGQRvRs6JmEfiQ
+"
+  style: "mapbox://styles/mapbox/light-v9"

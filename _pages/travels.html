@@ -1,0 +1,33 @@
+---
+permalink: /travels/
+title: "My travels"
+author_profile: false
+layout: single
+---
+
+<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.1/mapbox-gl.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.1/mapbox-gl.css' rel='stylesheet' />
+
+<div id='map' style='width: 800px; height: 600px;'></div>
+
+<script>
+mapboxgl.accessToken = '{{ site.mapbox.accessToken }}';
+var map = new mapboxgl.Map({
+    container: 'map',
+    style: '{{site.mapbox.style}}'
+});
+
+map.on('load', function () {
+
+  map.addLayer({
+    "id": "travels",
+    "type": "circle",
+    "source": {
+        "type": "geojson",
+        "data": "http://localhost:4000/json/travels.geojson"
+    }
+  });
+
+});
+
+</script>
