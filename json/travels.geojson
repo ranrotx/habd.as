@@ -1,0 +1,949 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Madrid, Spain"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.703269,
+          40.417321
+        ],
+        "type": "Point"
+      },
+      "id": "21b72a7671386be629de3176cdb4250f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Quepos, Costa Rica"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.164844,
+          9.432374
+        ],
+        "type": "Point"
+      },
+      "id": "49bd5ba87239c412004b5711ac2e31fe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Beaver Creek, Colorado"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.524634,
+          39.632914
+        ],
+        "type": "Point"
+      },
+      "id": "8525e220d0965335013a49c4a435ae22"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Joshua Tree, CA"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.315366,
+          34.134818
+        ],
+        "type": "Point"
+      },
+      "id": "85671c56e7782329f679b368e44bc302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Nassau, Bahamas"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.321721,
+          25.075058
+        ],
+        "type": "Point"
+      },
+      "id": "90c2e2c6fd5abd666148d547acdb6eec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Vienna, Austria"
+      },
+      "geometry": {
+        "coordinates": [
+          16.37656,
+          48.218968
+        ],
+        "type": "Point"
+      },
+      "id": "c27b447ccfe11c93cb6df47763e364b1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Birmingham, England"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.89519,
+          52.477551
+        ],
+        "type": "Point"
+      },
+      "id": "d37fcae9bd26f87f701bbf2927c82408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q925598",
+        "place_name": "San Angelo, Texas, United States",
+        "title": "Work trip"
+      },
+      "geometry": {
+        "coordinates": [
+          -100.4398,
+          31.4648
+        ],
+        "type": "Point"
+      },
+      "id": "place.10000104017320570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q128349",
+        "place_name": "Wichita Falls, Texas, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.4934,
+          33.9137
+        ],
+        "type": "Point"
+      },
+      "id": "place.10001099925979110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q23556",
+        "place_name": "Atlanta, Georgia, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.3902,
+          33.7491
+        ],
+        "type": "Point"
+      },
+      "id": "place.10021883938173260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q482993",
+        "place_name": "Park City, Utah, United States",
+        "title": "1st ski trip"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.498,
+          40.6461
+        ],
+        "type": "Point"
+      },
+      "id": "place.10051900218692240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q6106",
+        "place_name": "Portland, Oregon, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.6742,
+          45.5202
+        ],
+        "type": "Point"
+      },
+      "id": "place.10052003640326360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q80517",
+        "place_name": "Shreveport, Louisiana, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -93.7652,
+          32.522199
+        ],
+        "type": "Point"
+      },
+      "id": "place.10077203198326230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q16555",
+        "place_name": "Houston, Texas, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.3677,
+          29.7589
+        ],
+        "type": "Point"
+      },
+      "id": "place.10081286487172470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q8652",
+        "place_name": "Miami, Florida, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.1937,
+          25.7743
+        ],
+        "type": "Point"
+      },
+      "id": "place.10154304590122320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q488004",
+        "place_name": "Palm Springs, California, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.5403,
+          33.8246
+        ],
+        "type": "Point"
+      },
+      "id": "place.10179900012994340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q36091",
+        "place_name": "Minneapolis, Minnesota, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -93.2655,
+          44.9773
+        ],
+        "type": "Point"
+      },
+      "id": "place.10538553763885940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q41211",
+        "place_name": "San Juan, Puerto Rico, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -66.0571,
+          18.3744
+        ],
+        "type": "Point"
+      },
+      "id": "place.10785605255103880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q975627",
+        "place_name": "Bandera, Texas, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.0725,
+          29.727
+        ],
+        "type": "Point"
+      },
+      "id": "place.10936108314129460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q737624",
+        "place_name": "Vieques, Puerto Rico, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.4371,
+          18.1291
+        ],
+        "type": "Point"
+      },
+      "id": "place.1096202447726750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q61",
+        "place_name": "Washington, District of Columbia, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0366,
+          38.895
+        ],
+        "type": "Point"
+      },
+      "id": "place.11387590027246050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q49221",
+        "place_name": "Scottsdale, Arizona, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.8992,
+          33.509099
+        ],
+        "type": "Point"
+      },
+      "id": "place.12997528431131080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q365",
+        "place_name": "Köln, Nordrhein-Westfalen, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          6.95778,
+          50.94222
+        ],
+        "type": "Point"
+      },
+      "id": "place.13498115301191980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q172",
+        "place_name": "Toronto, Ontario, Canada"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.3849,
+          43.6529
+        ],
+        "type": "Point"
+      },
+      "id": "place.1521272661948910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q38555",
+        "place_name": "Santa Fe, New Mexico, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.9378,
+          35.687
+        ],
+        "type": "Point"
+      },
+      "id": "place.15638833731787650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q981796",
+        "place_name": "Katy, Texas, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.8244,
+          29.7858
+        ],
+        "type": "Point"
+      },
+      "id": "place.15743426363394700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q2156427",
+        "place_name": "Destin, Florida, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.4958,
+          30.3935
+        ],
+        "type": "Point"
+      },
+      "id": "place.16528799866682040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q274120",
+        "place_name": "Niagara Falls, Ontario, Canada"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.114,
+          43.1001
+        ],
+        "type": "Point"
+      },
+      "id": "place.17591341950204610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q485186",
+        "place_name": "Key West, Florida, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.7724,
+          24.5626
+        ],
+        "type": "Point"
+      },
+      "id": "place.18742792475493240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q16559",
+        "place_name": "Austin, Texas, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.7437,
+          30.2711
+        ],
+        "type": "Point"
+      },
+      "id": "place.18974382268754850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q49255",
+        "place_name": "Tampa, Florida, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.4584,
+          27.9478
+        ],
+        "type": "Point"
+      },
+      "id": "place.1985001777147560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q153494",
+        "place_name": "Rothenburg ob der Tauber, Bayern, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          10.17889,
+          49.37722
+        ],
+        "type": "Point"
+      },
+      "id": "place.2506031631735150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q60",
+        "place_name": "New York, New York, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.9808,
+          40.7648
+        ],
+        "type": "Point"
+      },
+      "id": "place.3677094975964500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q16557",
+        "place_name": "Dallas, Texas, United States",
+        "title": "Home"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.7969,
+          32.7763
+        ],
+        "type": "Point"
+      },
+      "id": "place.3790103132701420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q34404",
+        "place_name": "New Orleans, Louisiana, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.0701,
+          29.9499
+        ],
+        "type": "Point"
+      },
+      "id": "place.3979495376473040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q16554",
+        "place_name": "Denver, Colorado, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -104.9653,
+          39.7348
+        ],
+        "type": "Point"
+      },
+      "id": "place.3994099986046320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1489",
+        "place_name": "Mexico City, Distrito Federal, Mexico"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.14556,
+          19.41944
+        ],
+        "type": "Point"
+      },
+      "id": "place.5154037879100080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1735",
+        "place_name": "Innsbruck, Tirol, Austria"
+      },
+      "geometry": {
+        "coordinates": [
+          11.38333,
+          47.26667
+        ],
+        "type": "Point"
+      },
+      "id": "place.5655469505447060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q24639",
+        "place_name": "Vancouver, British Columbia, Canada"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.1139,
+          49.2609
+        ],
+        "type": "Point"
+      },
+      "id": "place.5944060364130490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q64",
+        "place_name": "Berlin, Berlin, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          13.38333,
+          52.51667
+        ],
+        "type": "Point"
+      },
+      "id": "place.6996813740564380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1297",
+        "place_name": "Chicago, Illinois, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.6244,
+          41.8756
+        ],
+        "type": "Point"
+      },
+      "id": "place.7071500072701850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q44989",
+        "place_name": "Tulsa, Oklahoma, United States",
+        "title": "Work trip"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.9251,
+          36.1012
+        ],
+        "type": "Point"
+      },
+      "id": "place.7151896155396020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1794",
+        "place_name": "Frankfurt am Main, Hessen, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          8.67972,
+          50.11361
+        ],
+        "type": "Point"
+      },
+      "id": "place.7300924236190980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q989988",
+        "place_name": "Playa Del Carmen, Quintana Roo, Mexico"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.08111,
+          20.6275
+        ],
+        "type": "Point"
+      },
+      "id": "place.7482933334307120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1143416",
+        "place_name": "Hot Springs National Park, Arkansas, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -93.0552,
+          34.5037
+        ],
+        "type": "Point"
+      },
+      "id": "place.7535375517368230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q975",
+        "place_name": "San Antonio, Texas, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.4951,
+          29.4246
+        ],
+        "type": "Point"
+      },
+      "id": "place.7705127234253710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1492",
+        "place_name": "Barcelona, Barcelona, Spain"
+      },
+      "geometry": {
+        "coordinates": [
+          2.17694,
+          41.3825
+        ],
+        "type": "Point"
+      },
+      "id": "place.8006288694167790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q100",
+        "place_name": "Boston, Massachusetts, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.0596,
+          42.3605
+        ],
+        "type": "Point"
+      },
+      "id": "place.8027400225012190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q929946",
+        "place_name": "Cozumel, Quintana Roo, Mexico"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.94167,
+          20.51667
+        ],
+        "type": "Point"
+      },
+      "id": "place.8160050749939920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1726",
+        "place_name": "München, Bayern, Germany"
+      },
+      "geometry": {
+        "coordinates": [
+          11.56667,
+          48.13333
+        ],
+        "type": "Point"
+      },
+      "id": "place.8366109811859780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q84",
+        "place_name": "London, Greater London, England, United Kingdom"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.1275,
+          51.50722
+        ],
+        "type": "Point"
+      },
+      "id": "place.8500383470913397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q5083",
+        "place_name": "Seattle, Washington, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.3301,
+          47.6038
+        ],
+        "type": "Point"
+      },
+      "id": "place.9173935436229470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q34713",
+        "place_name": "Salzburg, Salzburg, Austria"
+      },
+      "geometry": {
+        "coordinates": [
+          13.03333,
+          47.8
+        ],
+        "type": "Point"
+      },
+      "id": "place.9426904911259960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q49233",
+        "place_name": "Orlando, Florida, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.379,
+          28.5421
+        ],
+        "type": "Point"
+      },
+      "id": "place.9450099770250330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q62",
+        "place_name": "San Francisco, California, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.463,
+          37.7648
+        ],
+        "type": "Point"
+      },
+      "id": "place.9464292564361910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q23768",
+        "place_name": "Las Vegas, Nevada, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -115.1492,
+          36.1663
+        ],
+        "type": "Point"
+      },
+      "id": "place.9723284193317920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q579736",
+        "place_name": "Moline, Illinois, United States",
+        "title": "Work trip"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.5151,
+          41.5067
+        ],
+        "type": "Point"
+      },
+      "id": "place.9775286548394520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q695511",
+        "place_name": "College Station, Texas, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.3347,
+          30.6263
+        ],
+        "type": "Point"
+      },
+      "id": "place.9866505683031380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q574612",
+        "place_name": "New Braunfels, Texas, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.1256,
+          29.7026
+        ],
+        "type": "Point"
+      },
+      "id": "place.9956399580607880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q65",
+        "place_name": "Los Angeles, California, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.2439,
+          34.0544
+        ],
+        "type": "Point"
+      },
+      "id": "place.9962989141427640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q16552",
+        "place_name": "San Diego, California, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.1628,
+          32.717399
+        ],
+        "type": "Point"
+      },
+      "id": "place.9979692646618150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q667507",
+        "place_name": "Lake Powell, Utah, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.469331,
+          36.939671
+        ],
+        "type": "Point"
+      },
+      "id": "place.9981387657562290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "short_code": "CR-SJ",
+        "wikidata": "Q647808",
+        "place_name": "San José, Costa Rica"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.061293,
+          9.634193
+        ],
+        "type": "Point"
+      },
+      "id": "region.3577"
+    }
+  ],
+  "type": "FeatureCollection"
+}
