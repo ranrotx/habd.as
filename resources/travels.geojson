@@ -3,7 +3,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Madrid, Spain"
+        "place_name": "Madrid, Spain"
       },
       "geometry": {
         "coordinates": [
@@ -17,7 +17,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Quepos, Costa Rica"
+        "place_name": "Quepos, Costa Rica"
       },
       "geometry": {
         "coordinates": [
@@ -45,7 +45,7 @@
     {
       "type": "Feature",
       "properties": {
-        "place_name": "Joshua Tree, CA"
+        "place_name": "Joshua Tree, California"
       },
       "geometry": {
         "coordinates": [
@@ -102,7 +102,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q925598",
-        "place_name": "San Angelo, Texas, United States",
+        "place_name": "San Angelo, Texas",
         "title": "Work trip"
       },
       "geometry": {
@@ -118,7 +118,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q128349",
-        "place_name": "Wichita Falls, Texas, United States"
+        "place_name": "Wichita Falls, Texas"
       },
       "geometry": {
         "coordinates": [
@@ -133,7 +133,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q23556",
-        "place_name": "Atlanta, Georgia, United States"
+        "place_name": "Atlanta, Georgia"
       },
       "geometry": {
         "coordinates": [
@@ -148,7 +148,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q482993",
-        "place_name": "Park City, Utah, United States",
+        "place_name": "Park City, Utah",
         "title": "1st ski trip"
       },
       "geometry": {
@@ -164,7 +164,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q6106",
-        "place_name": "Portland, Oregon, United States"
+        "place_name": "Portland, Oregon"
       },
       "geometry": {
         "coordinates": [
@@ -179,7 +179,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q80517",
-        "place_name": "Shreveport, Louisiana, United States"
+        "place_name": "Shreveport, Louisiana"
       },
       "geometry": {
         "coordinates": [
@@ -194,7 +194,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q16555",
-        "place_name": "Houston, Texas, United States"
+        "place_name": "Houston, Texas"
       },
       "geometry": {
         "coordinates": [
@@ -209,7 +209,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q8652",
-        "place_name": "Miami, Florida, United States"
+        "place_name": "Miami, Florida"
       },
       "geometry": {
         "coordinates": [
@@ -224,7 +224,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q488004",
-        "place_name": "Palm Springs, California, United States"
+        "place_name": "Palm Springs, California"
       },
       "geometry": {
         "coordinates": [
@@ -239,7 +239,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q36091",
-        "place_name": "Minneapolis, Minnesota, United States"
+        "place_name": "Minneapolis, Minnesota"
       },
       "geometry": {
         "coordinates": [
@@ -254,7 +254,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q41211",
-        "place_name": "San Juan, Puerto Rico, United States"
+        "place_name": "San Juan, Puerto Rico"
       },
       "geometry": {
         "coordinates": [
@@ -269,7 +269,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q975627",
-        "place_name": "Bandera, Texas, United States"
+        "place_name": "Bandera, Texas"
       },
       "geometry": {
         "coordinates": [
@@ -284,7 +284,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q737624",
-        "place_name": "Vieques, Puerto Rico, United States"
+        "place_name": "Vieques, Puerto Rico"
       },
       "geometry": {
         "coordinates": [
@@ -299,7 +299,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q61",
-        "place_name": "Washington, District of Columbia, United States"
+        "place_name": "Washington, District of Columbia"
       },
       "geometry": {
         "coordinates": [
@@ -314,7 +314,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q49221",
-        "place_name": "Scottsdale, Arizona, United States"
+        "place_name": "Scottsdale, Arizona"
       },
       "geometry": {
         "coordinates": [
@@ -329,7 +329,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q365",
-        "place_name": "Köln, Nordrhein-Westfalen, Germany"
+        "place_name": "Köln, Germany"
       },
       "geometry": {
         "coordinates": [
@@ -344,7 +344,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q172",
-        "place_name": "Toronto, Ontario, Canada"
+        "place_name": "Toronto, Canada"
       },
       "geometry": {
         "coordinates": [
@@ -359,7 +359,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q38555",
-        "place_name": "Santa Fe, New Mexico, United States"
+        "place_name": "Santa Fe, New Mexico"
       },
       "geometry": {
         "coordinates": [
@@ -374,7 +374,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q981796",
-        "place_name": "Katy, Texas, United States"
+        "place_name": "Katy, Texas"
       },
       "geometry": {
         "coordinates": [
@@ -389,7 +389,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q2156427",
-        "place_name": "Destin, Florida, United States"
+        "place_name": "Destin, Florida"
       },
       "geometry": {
         "coordinates": [
@@ -404,7 +404,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q274120",
-        "place_name": "Niagara Falls, Ontario, Canada"
+        "place_name": "Niagara Falls, Canada"
       },
       "geometry": {
         "coordinates": [
@@ -419,7 +419,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q485186",
-        "place_name": "Key West, Florida, United States"
+        "place_name": "Key West, Florida"
       },
       "geometry": {
         "coordinates": [
@@ -434,7 +434,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q16559",
-        "place_name": "Austin, Texas, United States"
+        "place_name": "Austin, Texas"
       },
       "geometry": {
         "coordinates": [
@@ -449,7 +449,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q49255",
-        "place_name": "Tampa, Florida, United States"
+        "place_name": "Tampa, Florida"
       },
       "geometry": {
         "coordinates": [
@@ -464,7 +464,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q153494",
-        "place_name": "Rothenburg ob der Tauber, Bayern, Germany"
+        "place_name": "Rothenburg ob der Tauber, Germany"
       },
       "geometry": {
         "coordinates": [
@@ -479,7 +479,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q60",
-        "place_name": "New York, New York, United States"
+        "place_name": "New York, New York"
       },
       "geometry": {
         "coordinates": [
@@ -494,7 +494,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q16557",
-        "place_name": "Dallas, Texas, United States",
+        "place_name": "Dallas, Texas",
         "title": "Home"
       },
       "geometry": {
@@ -510,7 +510,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q34404",
-        "place_name": "New Orleans, Louisiana, United States"
+        "place_name": "New Orleans, Louisiana"
       },
       "geometry": {
         "coordinates": [
@@ -525,7 +525,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q16554",
-        "place_name": "Denver, Colorado, United States"
+        "place_name": "Denver, Colorado"
       },
       "geometry": {
         "coordinates": [
@@ -540,7 +540,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q1489",
-        "place_name": "Mexico City, Distrito Federal, Mexico"
+        "place_name": "Mexico City, Mexico"
       },
       "geometry": {
         "coordinates": [
@@ -555,7 +555,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q1735",
-        "place_name": "Innsbruck, Tirol, Austria"
+        "place_name": "Innsbruck, Austria"
       },
       "geometry": {
         "coordinates": [
@@ -570,7 +570,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q24639",
-        "place_name": "Vancouver, British Columbia, Canada"
+        "place_name": "Vancouver, Canada"
       },
       "geometry": {
         "coordinates": [
@@ -585,7 +585,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q64",
-        "place_name": "Berlin, Berlin, Germany"
+        "place_name": "Berlin, Germany"
       },
       "geometry": {
         "coordinates": [
@@ -600,7 +600,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q1297",
-        "place_name": "Chicago, Illinois, United States"
+        "place_name": "Chicago, Illinois"
       },
       "geometry": {
         "coordinates": [
@@ -615,7 +615,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q44989",
-        "place_name": "Tulsa, Oklahoma, United States",
+        "place_name": "Tulsa, Oklahoma",
         "title": "Work trip"
       },
       "geometry": {
@@ -631,7 +631,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q1794",
-        "place_name": "Frankfurt am Main, Hessen, Germany"
+        "place_name": "Frankfurt am Main, Germany"
       },
       "geometry": {
         "coordinates": [
@@ -646,7 +646,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q989988",
-        "place_name": "Playa Del Carmen, Quintana Roo, Mexico"
+        "place_name": "Playa Del Carmen, Mexico"
       },
       "geometry": {
         "coordinates": [
@@ -661,7 +661,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q1143416",
-        "place_name": "Hot Springs National Park, Arkansas, United States"
+        "place_name": "Hot Springs National Park, Arkansas"
       },
       "geometry": {
         "coordinates": [
@@ -676,7 +676,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q975",
-        "place_name": "San Antonio, Texas, United States"
+        "place_name": "San Antonio, Texas"
       },
       "geometry": {
         "coordinates": [
@@ -691,7 +691,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q1492",
-        "place_name": "Barcelona, Barcelona, Spain"
+        "place_name": "Barcelona, Spain"
       },
       "geometry": {
         "coordinates": [
@@ -706,7 +706,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q100",
-        "place_name": "Boston, Massachusetts, United States"
+        "place_name": "Boston, Massachusetts"
       },
       "geometry": {
         "coordinates": [
@@ -721,7 +721,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q929946",
-        "place_name": "Cozumel, Quintana Roo, Mexico"
+        "place_name": "Cozumel, Mexico"
       },
       "geometry": {
         "coordinates": [
@@ -736,7 +736,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q1726",
-        "place_name": "München, Bayern, Germany"
+        "place_name": "München, Germany"
       },
       "geometry": {
         "coordinates": [
@@ -751,7 +751,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q84",
-        "place_name": "London, Greater London, England, United Kingdom"
+        "place_name": "London, England"
       },
       "geometry": {
         "coordinates": [
@@ -766,7 +766,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q5083",
-        "place_name": "Seattle, Washington, United States"
+        "place_name": "Seattle, Washington"
       },
       "geometry": {
         "coordinates": [
@@ -781,7 +781,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q34713",
-        "place_name": "Salzburg, Salzburg, Austria"
+        "place_name": "Salzburg, Austria"
       },
       "geometry": {
         "coordinates": [
@@ -796,7 +796,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q49233",
-        "place_name": "Orlando, Florida, United States"
+        "place_name": "Orlando, Florida"
       },
       "geometry": {
         "coordinates": [
@@ -811,7 +811,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q62",
-        "place_name": "San Francisco, California, United States"
+        "place_name": "San Francisco, California"
       },
       "geometry": {
         "coordinates": [
@@ -826,7 +826,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q23768",
-        "place_name": "Las Vegas, Nevada, United States"
+        "place_name": "Las Vegas, Nevada"
       },
       "geometry": {
         "coordinates": [
@@ -841,7 +841,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q579736",
-        "place_name": "Moline, Illinois, United States",
+        "place_name": "Moline, Illinois",
         "title": "Work trip"
       },
       "geometry": {
@@ -857,7 +857,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q695511",
-        "place_name": "College Station, Texas, United States"
+        "place_name": "College Station, Texas"
       },
       "geometry": {
         "coordinates": [
@@ -872,7 +872,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q574612",
-        "place_name": "New Braunfels, Texas, United States"
+        "place_name": "New Braunfels, Texas"
       },
       "geometry": {
         "coordinates": [
@@ -887,7 +887,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q65",
-        "place_name": "Los Angeles, California, United States"
+        "place_name": "Los Angeles, California"
       },
       "geometry": {
         "coordinates": [
@@ -902,7 +902,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q16552",
-        "place_name": "San Diego, California, United States"
+        "place_name": "San Diego, California"
       },
       "geometry": {
         "coordinates": [
@@ -917,7 +917,7 @@
       "type": "Feature",
       "properties": {
         "wikidata": "Q667507",
-        "place_name": "Lake Powell, Utah, United States"
+        "place_name": "Lake Powell, Utah"
       },
       "geometry": {
         "coordinates": [

@@ -1,21 +1,23 @@
----
-permalink: /travels/
-title: "My travels"
-author_profile: false
-layout: single
----
-
 <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.1/mapbox-gl.js'></script>
 <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.1/mapbox-gl.css' rel='stylesheet' />
 
-<div id='map' style='width:600px; height:400px'></div>
+<div id='map' style='height:400px'></div>
 
 <script>
 mapboxgl.accessToken = '{{ site.mapbox.accessToken }}';
 var map = new mapboxgl.Map({
-    container: 'map',
-    style: '{{site.mapbox.style}}'
+  container: 'map',
+  style: '{{site.mapbox.style}}',
+  zoom: '0.9772716157380017',
+  center: [-43.79137679724073, 32.38747323387135],
+  maxBounds: [ [-180, -85], [180, 85] ]
 });
+
+var nav = new mapboxgl.NavigationControl({
+  showCompass: false
+});
+
+map.addControl(nav, 'top-left');
 
 map.on('load', function () {
 
@@ -24,10 +26,41 @@ map.on('load', function () {
     "type": "circle",
     "source": {
         "type": "geojson",
-        "data": "{{ site.url }}/json/travels.geojson"
+        "data": "{{ site.url }}/resources/travels.geojson"
     }
   });
 
+});
+
+var popup = new mapboxgl.Popup({
+  closeButton: false,
+  closeOnClick: false
+});
+
+map.on('mouseenter', 'travels', function(e) {
+  // Change the cursor style as a UI indicator.
+  map.getCanvas().style.cursor = 'pointer';
+
+  var coordinates = e.features[0].geometry.coordinates.slice();
+  var description = e.features[0].properties.place_name;
+
+  // Ensure that if the map is zoomed out such that multiple
+  // copies of the feature are visible, the popup appears
+  // over the copy being pointed to.
+  while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+      coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+  }
+
+  // Populate the popup and set its coordinates
+  // based on the feature found.
+  popup.setLngLat(coordinates)
+      .setHTML(description)
+      .addTo(map);
+});
+
+map.on('mouseleave', 'travels', function() {
+  map.getCanvas().style.cursor = '';
+  popup.remove();
 });
 
 </script>
