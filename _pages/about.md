@@ -15,7 +15,7 @@ Outside of IT, I have come to appreciate the importance of staying physically ac
 
 ## My travels
 
-{% include_relative travels.html %}
+{% include travels.html %}
 
 While my travels are not extensive (compared to some people), I have gotten the opportunity to explore a lot of the United States as well as a few other countries. Long-term I am looking to grow this list in the future.
 
