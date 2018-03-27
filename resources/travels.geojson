@@ -943,6 +943,19 @@
         "type": "Point"
       },
       "id": "region.3577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Maui, Hawaii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.6911745071411,
+          20.924846422111663
+        ]
+      }
     }
   ],
   "type": "FeatureCollection"
