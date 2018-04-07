@@ -956,6 +956,32 @@
           20.924846422111663
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Hearst Castle,  San Simeon, California"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.18696689605711,
+          35.650775385513334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Astoria, Oregon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.83651733398438,
+          46.191001911142294
+        ]
+      }
     }
   ],
   "type": "FeatureCollection"
