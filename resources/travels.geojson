@@ -982,6 +982,19 @@
           46.191001911142294
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Capitol Reef NP, Utah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.48900032043456,
+          38.30630499062284
+        ]
+      }
     }
   ],
   "type": "FeatureCollection"
