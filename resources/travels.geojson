@@ -995,6 +995,19 @@
           38.30630499062284
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Neenah, Wisconsin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.46268653869629,
+          44.18589693286957
+        ]
+      }
     }
   ],
   "type": "FeatureCollection"
