@@ -1008,6 +1008,110 @@
           44.18589693286957
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Paris, France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3448944091796875,
+          48.85522811385678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Rennes, France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.669921875,
+          48.11293286919236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Rennes, France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.669921875,
+          48.11293286919236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Mont Saint-Michel, France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5123367309570312,
+          48.63585814062312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Saint-Malo, France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0280075073242188,
+          48.650603327742466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Milan, Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.189462661743162,
+          45.46467571396945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Amsterdam, Netherlands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9005889892578125,
+          52.376647126933165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Rotterdam, Netherlands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.469633102416992,
+          51.92365231649078
+        ]
+      }
     }
   ],
   "type": "FeatureCollection"
