@@ -1112,6 +1112,32 @@
           51.92365231649078
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Punta Mita, Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.53719997406006,
+          20.768192530190966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Springdale, Arkansas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.11918640136719,
+          36.1822249804225
+        ]
+      }
     }
   ],
   "type": "FeatureCollection"
