@@ -85,7 +85,7 @@ Even though the house was in good condition, like the other house that we bought
 
 {% include image.html file="new-house.jpg" description="New house, after we changed up the landscaping." %}
 
-{% include image.html file="raphael-ronnie-arboretum.jpg" description="Rapahel and I at the Dallas Arboretum, which is near our house." %}
+{% include image.html file="raphael-ronnie-arboretum.jpg" description="Raphael and I at the Dallas Arboretum, which is near our house." %}
 
 
 Everything in life has its tradeoffs. The thing I really wish I could do something about is the physical distance between where we live now and the rest of my family (that lives in and around Houston). When I graduated from college, I quickly became aware of how few opportunities there are in IT positions in the Houston area when I attempted to find something close to home. When I graduated, I had three different job offers and not one of them was in Houston. In the family I grew up in, just about all of my extended family lived and worked nearby where they grew up, close to family. It has really been an adjustment for me living away from family. My parents have always been my biggest supporters, but at times I can’t help but feel like I’ve lost or don’t have connections with most of my extended family.
