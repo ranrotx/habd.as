@@ -104,3 +104,12 @@ html, body {
 .post.highlighted {
   border-radius: $border-radius;
 }
+
+/*
+   Format image captions
+   ========================================================================== */
+
+.caption {
+  font-size: .9rem;
+  font-style: italic;
+}
