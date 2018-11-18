@@ -1138,6 +1138,71 @@
           36.1822249804225
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Sydney, Australia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.20655596256256,
+          -33.861275295301176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Melbourne, Australia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9765408039093,
+          -37.80387360197311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Byron Bay, Australia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.48881006240845,
+          -28.626286676607677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Brisbane, Australia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.02331268787384,
+          -27.477630778681846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Great Ocean Road, Australia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.01478385925293,
+          -38.623039964254374
+        ]
+      }
     }
   ],
   "type": "FeatureCollection"
