@@ -1203,6 +1203,19 @@
           -38.623039964254374
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Blue Mountains, Australia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.3120231628418,
+          -33.73212048747284
+        ]
+      }
     }
   ],
   "type": "FeatureCollection"
