@@ -1216,6 +1216,19 @@
           -33.73212048747284
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "St. Louis, Missouri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.20599365234375,
+          38.63189092902837
+        ]
+      }
     }
   ],
   "type": "FeatureCollection"
