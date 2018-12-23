@@ -20,4 +20,4 @@ artifacts:
   base-directory: _site
   files:
     - '**/*'
-  
+  name: ronnieeichler-$(date +%Y-%m-%d-%H-%M-%S) 
