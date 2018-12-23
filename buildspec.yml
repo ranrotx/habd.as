@@ -7,14 +7,6 @@ env:
     LANG: en_US.UTF-8
 
 phases:
-  install:
-    commands:
-      - echo Generate locale
-      - locale-gen en_US.UTF-8
-      - echo Install nodejs
-      - apt-get update && apt-get install -y nodejs
-      - echo Installing gems
-      - bundle install
   build:
     commands:
       - echo Running build
@@ -22,6 +14,8 @@ phases:
   post_build:
     commands:
       - echo Build completed on `date`
+      - echo Deploying to S3
+      - rake deploy
 artifacts:
   base-directory: _site
   files:

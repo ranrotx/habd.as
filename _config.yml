@@ -104,10 +104,12 @@ exclude:
   - _assets/js/plugins
   - _assets/js/vendor
   - s3_website.yml
+  - buildspec.yml
   - Capfile
   - CHANGELOG
   - config
   - Dockerfile
+  - dockerd-entrypoint.sh
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
