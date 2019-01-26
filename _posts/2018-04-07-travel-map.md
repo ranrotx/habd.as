@@ -8,7 +8,7 @@ tags: [personal, travel]
 author_profile: true
 comments: true
 share: true
-featured: true
+featured: false
 header:
     overlay_image: travelmap.jpg
     overlay_filter: 0.2
