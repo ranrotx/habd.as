@@ -1229,6 +1229,78 @@
           38.63189092902837
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Osaka, Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Hiroshima, Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Osaka, Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Miyajima, Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Osaka, Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Kyoto, Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          
+        ]
+      }
     }
   ],
   "type": "FeatureCollection"
