@@ -1238,7 +1238,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          
+          135.51936340332031,
+          34.700965881347656
         ]
       }
     },
@@ -1250,19 +1251,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "place_name": "Osaka, Japan"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          
+          132.45356750488281,
+          34.395465850830078
         ]
       }
     },
@@ -1274,19 +1264,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "place_name": "Osaka, Japan"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          
+          132.31993103027344,
+          34.295879364013672
         ]
       }
     },
@@ -1298,7 +1277,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          
+          135.75967407226562,
+          34.98590087890625
         ]
       }
     }
