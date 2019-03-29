@@ -1359,6 +1359,32 @@
           40.575935363769531
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Hirosaki, Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.46710205078125,
+          40.609371185302734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Hachinohe, Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.5230712890625,
+          40.52423095703125
+        ]
+      }
     }
   ],
   "type": "FeatureCollection"
