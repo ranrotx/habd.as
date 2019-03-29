@@ -1281,6 +1281,84 @@
           34.98590087890625
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Tokyo, Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.73130798339844,
+          35.662300109863281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Mount Fuji, Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.57524108886719,
+          35.469112396240234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Sendai, Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.87619018554688,
+          38.256324768066406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Matsushima Bay, Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.15608215332031,
+          38.325428009033203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Hachinohe, Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.88168334960938,
+          38.259830474853516
+        ]
+      }
+    }.
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Oirase Gorge, Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.98089599609375,
+          40.575935363769531
+        ]
+      }
     }
   ],
   "type": "FeatureCollection"
