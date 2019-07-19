@@ -1385,6 +1385,19 @@
           40.52423095703125
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Orcas Island, Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.86913299560547,
+          48.705677032470703
+        ]
+      }
     }
   ],
   "type": "FeatureCollection"
