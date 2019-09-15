@@ -27,7 +27,12 @@ map.on('load', function () {
     "source": {
         "type": "geojson",
         "data": "{{ site.url }}/resources/travels.geojson"
+    },
+    'paint': {
+      'fill-color': '#3366ff',
+      'fill-opacity': 0.4
     }
+}
   });
 
   var popup = new mapboxgl.Popup({
