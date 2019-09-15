@@ -1398,6 +1398,71 @@
           48.705677032470703
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Rome, Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.475923538208008,
+          41.89798355102539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Positano, Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.488142967224121,
+          40.627655029296875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Venice, Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.33802604675293,
+          45.43415069580078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Florence, Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.260774612426758,
+          43.753501892089844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Capri, Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.228501319885254,
+          40.55923843383789
+        ]
+      }
     }
   ],
   "type": "FeatureCollection"
