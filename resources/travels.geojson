@@ -1463,6 +1463,32 @@
           40.55923843383789
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Amalfi, Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.601945877075195,
+          40.63410568237305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Sorrento, Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.412338256835938,
+          40.647769927978516
+        ]
+      }
     }
   ],
   "type": "FeatureCollection"
