@@ -1489,6 +1489,71 @@
           40.647769927978516
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Vaduz, Liechtenstein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5226001739501953,
+          47.139453887939453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Lucerne, Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3090403795340357,
+          47.051076192357485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Dakota Dunes, South Dakota"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.481063842773438,
+          42.503425598144531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Oberammergau, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.06248140335083,
+          47.59934128833909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Omaha, Nebraska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8993148803711,
+          41.30205526045988
+        ]
+      }
     }
   ],
   "type": "FeatureCollection"
