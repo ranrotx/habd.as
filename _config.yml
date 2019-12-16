@@ -45,14 +45,6 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
-# Analytics
-analytics:
-  provider               : google
-  google:
-    tracking_id          : UA-70776171-2
-  segment:
-    write_key            :
-
 
 # Site Author
 # See also _data/authors.yml
