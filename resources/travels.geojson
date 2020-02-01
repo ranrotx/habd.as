@@ -1554,6 +1554,97 @@
           41.30205526045988
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Xpu-ha, Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.254280090332031,
+          20.480180740356445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Tulum, Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.458900451660156,
+          20.14996337890625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Sonoma, California"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45893478393553,
+          38.29263123752421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Napa, California"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28590011596678,
+          38.297616056850146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Sedona, Arizona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.79344177246094,
+          34.866778207689634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Sausalito, California"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4869155883789,
+          37.859133539451456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Great Smoky Mountains National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.43841552734375,
+          35.61823286113127
+        ]
+      }
     }
   ],
   "type": "FeatureCollection"
