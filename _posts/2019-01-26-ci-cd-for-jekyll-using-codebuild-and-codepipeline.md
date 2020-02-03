@@ -8,8 +8,10 @@ tags: [aws, blog, devops]
 author_profile: true
 comments: true
 share: true
-featured: true
+featured: false
 ---
+
+> Note: [Amplify Console](https://aws.amazon.com/amplify/console/) simplifies a lot of this and makes most of this redundant. I'm currently in the process of migrating this site from Jekyll to [Gatsby](https://www.gatsbyjs.org/) and will be using Amplify.
 
 I've been meaning to write this post for awhile now. A lot of this is from memory, since I didn't have the time to document and take verbose notes at the time when I was figuring all of this out. So while it may be light on historical details (why I did certain things a certain way), it will be technically accurate for how you can get a similar CI/CD pipeline working using AWS [CodePipeline](https://aws.amazon.com/codepipeline/) and [CodeBuild](https://aws.amazon.com/codebuild/) for your Jekyll blog.
 
