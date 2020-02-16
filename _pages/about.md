@@ -17,10 +17,17 @@ Outside of IT, I have come to appreciate the importance of staying physically ac
 
 {% include travels.html %}
 
-While my travels are not extensive (compared to some people), I have gotten the opportunity to explore a lot of the United States as well as a few other countries. Long-term I am looking to grow this list in the future.
-
 The map above is places that I've spent meaningful time. It would be much longer if I included places where I had a connecting flight or was just driving through. That would make for an interesting data exercise, but unfortunately I don't have those data points and would probably miss something in the process.
+
+I strongly believe that vacations and travel make for the best investments! Here's what I have planned for the future
+
+- Copenhagen
+- Milan to Lucern by train
+- Croatia
+- South Africa
+- New Zealand
+- Tasmania
 
 ## Photography
 
-Being a technical person, photography lends itself to providing a creative outlet. I originally started my photographic journey in 2008 with the purchase of a Canon 40d. Since then, I have realized that I value the ability to travel light and I've made the move to a mirrorless Sony a6000. I hope to highlight some of the work that I've done in the near future on this site.
+Being a technical person, photography lends itself to providing a creative outlet. I originally started my photographic journey in 2008 with the purchase of a Canon 40d. I also went through a phase where I wanted to travel light and made the move to a mirrorless Sony a6000. I finally got into the full-frame game with a Sony a7riii that is now my main camera. I haven't settled on a site (or method) for fully showcasing my work, but I do post pics from time-to-time on my [Instagram](https://www.instagram.com/ronnie.eichler/) account.
