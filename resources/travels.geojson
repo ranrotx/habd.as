@@ -1645,6 +1645,19 @@
           35.61823286113127
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Durant, Oklahoma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.38683319091797,
+          33.99745799229644
+        ]
+      }
     }
   ],
   "type": "FeatureCollection"
