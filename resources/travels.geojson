@@ -1658,6 +1658,45 @@
           33.99745799229644
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Yountville, California"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36673736572266,
+          38.4056396484375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Calistoga, California"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.54183959960938,
+          38.55875778198242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Miur Woods, California"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5730209350586,
+          37.8931770324707
+        ]
+      }
     }
   ],
   "type": "FeatureCollection"
