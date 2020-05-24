@@ -1697,6 +1697,84 @@
           37.8931770324707
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Marfa, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.03189849853516,
+          30.305892944335938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Pecos, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4946060180664,
+          31.425928115844727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Van Horn, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.83133697509766,
+          31.039356231689453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Fort Davis, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.51840209960938,
+          30.603588104248047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Alpine, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.6611099243164,
+          30.35765838623047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Valentine, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.49552154541016,
+          30.58406639099121
+        ]
+      }
     }
   ],
   "type": "FeatureCollection"
