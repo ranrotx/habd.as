@@ -4,7 +4,7 @@ title                    : "Ronnie Eichler"
 title_separator          : "-"
 name                     : "Ronnie Eichler"
 description              : "Tech blog for Ronnie Eichler. The views expressed on this site are my own and not those of my employer."
-url                      : https://www.ronnieeichler.com # the base hostname & protocol for your site e.g. "https://jhabdas.github.io"
+url                      : https://www.ronnieeichler.com 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : https://github.com/ranrotx/ronnieeichler-site/
 teaser                   : teaser.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -32,7 +32,7 @@ webmaster_verifications:
 
 # Social Sharing
 twitter:
-  username               :
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -66,7 +66,7 @@ author:
   github           : ranrotx
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   lastfm           :
   linkedin         : ronnieeichler
   medium           :
@@ -75,7 +75,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : 
   vine             :
   weibo            :
   xing             :
