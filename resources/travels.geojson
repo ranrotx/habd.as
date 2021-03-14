@@ -1775,6 +1775,19 @@
           30.58406639099121
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Hope, Arkansas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.58909606933594,
+          33.67006843120305
+        ]
+      }
     }
   ],
   "type": "FeatureCollection"
